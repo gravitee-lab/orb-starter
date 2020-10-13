@@ -22,7 +22,7 @@ I experienced that using `Circle CI CLI` version `0.1.10803+6189238 (release)` :
 * Official Installation procedure fails
 * Initializing an Orb project from a starter fails (see https://github.com/CircleCI-Public/circleci-cli/issues/491)
 * And global process is not really easy to grasp, especially regarding `Circle CI Orbs`-specific concepts such as a namepsace (e.g. once a namespacehas been created, in the Obregistry, I still today haven't found how to delete it.)
-* and see _**ANNEX A : List of Circle CI `Orb` lifecycle management oddities**_ for a lot more
+* and see _**ANNEX A : List of Circle CI `Orb` lifecycle management oddities**_ for [a lot more](https://github.com/gravitee-lab/orb-starter#annex-a--list-of-circle-ci-orb-lifecycle-management-oddities)
 
 
 
